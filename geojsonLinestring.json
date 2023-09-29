@@ -1,0 +1,670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.45065085926893, -6.563276301943333],
+          [107.45029243845113, -6.5629202300065685],
+          [107.44837626562355, -6.562317646148983],
+          [107.4473147885875, -6.561906793100832],
+          [107.44725964692338, -6.560961829803503],
+          [107.44830733854201, -6.560948134670525],
+          [107.44837626562355, -6.560400329024915]
+        ],
+        "type": "LineString"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan merak"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44843684724503, -6.560413386376538],
+          [107.4490897776775, -6.560454485727362]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4483946581214, -6.560371336506478],
+          [107.44837307364503, -6.5593938856362115]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan merak"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4484432237029, -6.559343852007771],
+          [107.44889469901489, -6.559352786668526]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan merak"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44835328838087, -6.559352786668526],
+          [107.44776151396678, -6.559338491211236]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "pertigaan"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44842890331807, -6.559308550687774],
+          [107.4484315072761, -6.559071000187657]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan masuk situ"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44713883462151, -6.556629513127234],
+          [107.44762226993237, -6.556606987742143]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalur joging"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44600893474166, -6.554978884638402],
+          [107.44642758810164, -6.555439047392838]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "kilometer 4"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44407222370705, -6.560816912309747],
+          [107.44487024943538, -6.561084148047357]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan raya bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44384565808366, -6.560757997420822],
+          [107.44337936979423, -6.560766447804809]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "pertigaan purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44397163805587, -6.560578015980596],
+          [107.44387268734289, -6.560729734349465],
+          [107.44387191603784, -6.560761530163674],
+          [107.44407176312984, -6.560813228431115],
+          [107.44397387341706, -6.560579034759371]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": 16
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4439643294458, -6.560236626581101],
+          [107.44395087217538, -6.559905789281032]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "gang tol"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44390472312915, -6.559802161638231],
+          [107.44358135812303, -6.559804292636386]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "gang rusa iv"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44328085150204, -6.560191449904451],
+          [107.4432698273194, -6.5592787823293435]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "gang rusa 1"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44381683986342, -6.557585975521491],
+          [107.44279802682792, -6.557484057877474]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan masuk situ"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44489445203072, -6.556611597862656],
+          [107.44507215197922, -6.5566223862779935],
+          [107.44525281359284, -6.556425252472479]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan masuk situ"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44524301823793, -6.556400179232355],
+          [107.4453315668789, -6.556262532775875]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan masuk situ"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44534503325798, -6.55624701286952],
+          [107.44542351166274, -6.5560955672197565]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan masuk situ"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44542618174523, -6.556080151389082],
+          [107.44552028638066, -6.555904557166912]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan masuk situ"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44554837338467, -6.5559096617071475],
+          [107.44572790141541, -6.55583169647295]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4456187000714, -6.551459427659211],
+          [107.44566799928958, -6.55157466831416]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44502167724823, -6.551200514980991],
+          [107.44502167724823, -6.551001724687197],
+          [107.44521597416866, -6.551013248764008]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44426132106167, -6.551540621643113],
+          [107.44436861935986, -6.551624171106724],
+          [107.44449041742917, -6.551529097578452]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44569435023203, -6.552812854420054],
+          [107.44576104917525, -6.552936737786638],
+          [107.44589444706025, -6.552951142826728]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44596984586371, -6.55300011996151],
+          [107.44583064807097, -6.553262291601925]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44629405509306, -6.5529552854590065],
+          [107.44649705187373, -6.553338459381877]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44655141606194, -6.553502711710124],
+          [107.44671381348616, -6.553865718193904]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44584092732663, -6.5535315217587],
+          [107.44589022654486, -6.55389164721899]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44569303091225, -6.551669858239663],
+          [107.44576262980382, -6.552041509096654]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "statsiun purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44586702814803, -6.552459255854018],
+          [107.4459395269991, -6.552683974654855],
+          [107.44602942557367, -6.5526897366738694],
+          [107.44610192442491, -6.5529634325092445]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan ahmad yani"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44236563872062, -6.5459722483753495],
+          [107.44278340282517, -6.545877920963079]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan ahmad yani"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44301443903544, -6.545852766983259],
+          [107.44366640422817, -6.545852766983259]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan ahmad yani"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44389703230195, -6.5458051323901],
+          [107.44459014093115, -6.545767401413968]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan ahmad yani"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44481311987062, -6.545766937389075],
+          [107.44539862259421, -6.545682042682856]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan ahmad yani"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44551408087403, -6.545011511066093],
+          [107.44504884292598, -6.544854298275908]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan suryawinata"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44496972093572, -6.544829144244559],
+          [107.4442987664645, -6.544785124686442]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan suryawinata"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44419749031783, -6.544766259160198],
+          [107.44368794470506, -6.544766259160198]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan suryawinata"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44502153471382, -6.544761837528256],
+          [107.44505951326931, -6.544243035279706]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan suryawinata"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44505001955082, -6.544168022900152],
+          [107.44509749274471, -6.54375926917227]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan suryawinata"
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44508799983453, -6.543674239652205],
+          [107.44512914326947, -6.543180590388744]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4437640266247, -6.541091227127552],
+          [107.44286905769371, -6.540156802765736]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44275304320212, -6.540025077605108],
+          [107.44233870573413, -6.5395722721016085]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44229979992394, -6.539548539198179],
+          [107.44168658046897, -6.538922843614785]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4416486298008, -6.5388829309504075],
+          [107.44086967535941, -6.538092577451863]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.44078266449173, -6.53800613246176],
+          [107.44006171729626, -6.537195195402546]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.43991471891138, -6.5370457733524745],
+          [107.4393885103263, -6.536477704814487]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.43934192131081, -6.536385692316671],
+          [107.43889029346963, -6.535751759881265]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.43877442167923, -6.53560661088936],
+          [107.43843466495531, -6.5349603281064645]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4383100258404, -6.53474598394601],
+          [107.43803656311144, -6.534009137909507]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "jalan taman pahlawan "
+      },
+      "geometry": {
+        "coordinates": [
+          [107.4378749714997, -6.533762150167675],
+          [107.4375600750231, -6.53292239093571]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

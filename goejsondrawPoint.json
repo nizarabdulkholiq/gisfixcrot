@@ -1,0 +1,993 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44834330078908,
+          -6.557366938937349
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44805135699579,
+          -6.556144639236663
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44397451019933,
+          -6.556859377439054
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4467897241002,
+          -6.555512768378321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4450380354512,
+          -6.555409182914573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44487120796083,
+          -6.556103205106552
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44472523390601,
+          -6.557532680606627
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44819733104924,
+          -6.555295238881342
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44880208070254,
+          -6.556476112153732
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4458930263387,
+          -6.554777311124212
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44338018726518,
+          -6.557543039109461
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44668545168236,
+          -6.552871329020292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44518400426898,
+          -6.553627506253903
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44496504318681,
+          -6.5543940409106085
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44833287314924,
+          -6.554072925184201
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44945895870933,
+          -6.555585274860846
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44969877322711,
+          -6.554052208032871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.45117936720357,
+          -6.556248221218453
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.45083528550498,
+          -6.554445833749895
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.45005328164348,
+          -6.557294431646554
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta",
+        "nama": ""
+      },
+      "geometry": {
+        "coordinates": [
+          107.45047035036941,
+          -6.5532856728521125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.45084571222276,
+          -6.5553263112008295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44848927392184,
+          -6.552933480616275
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 purwakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44422474619932,
+          -6.553461768876076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44472308335014,
+          -6.558799759235498
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4457178271735,
+          -6.559369893552727
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44814729766568,
+          -6.559037315279966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44728909408138,
+          -6.559916915311192
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44705527906859,
+          -6.558821009117793
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44784665295663,
+          -6.558201582811918
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44603608542423,
+          -6.560125375455769
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44480864333633,
+          -6.559697597495628
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44907317537371,
+          -6.557791643120439
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44907317537371,
+          -6.558951793532316
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44844757228486,
+          -6.559656169250431
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4465603363002,
+          -6.560567712819207
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44659161645501,
+          -6.5592521891806115
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44433944533483,
+          -6.560526279056802
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.4484892791574,
+          -6.561095992988044
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "purwakarta tengah",
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.45084571222276,
+          -6.558092036140238
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              107.45015371899918,
+              -6.562087323052123
+            ],
+            [
+              107.45014461859458,
+              -6.56208776719729
+            ],
+            [
+              107.45013560583179,
+              -6.562089095355431
+            ],
+            [
+              107.4501267675086,
+              -6.562091294735665
+            ],
+            [
+              107.45011818874289,
+              -6.562094344156769
+            ],
+            [
+              107.45010995215279,
+              -6.562098214251165
+            ],
+            [
+              107.45010213706111,
+              -6.562102867747748
+            ],
+            [
+              107.45009481873149,
+              -6.562108259830825
+            ],
+            [
+              107.4500880676434,
+              -6.562114338571709
+            ],
+            [
+              107.4500819488135,
+              -6.562121045428827
+            ],
+            [
+              107.45007652116949,
+              -6.562128315811503
+            ],
+            [
+              107.45007183698254,
+              -6.562136079701999
+            ],
+            [
+              107.45006794136397,
+              -6.562144262329829
+            ],
+            [
+              107.45006487183073,
+              -6.562152784891832
+            ],
+            [
+              107.45006265794417,
+              -6.562161565311091
+            ],
+            [
+              107.45006132102526,
+              -6.562170519027381
+            ],
+            [
+              107.45006087394928,
+              -6.562179559811526
+            ],
+            [
+              107.4500613210219,
+              -6.562188600595835
+            ],
+            [
+              107.45006265793761,
+              -6.56219755431261
+            ],
+            [
+              107.45006487182118,
+              -6.562206334732658
+            ],
+            [
+              107.4500679413518,
+              -6.562214857295723
+            ],
+            [
+              107.45007183696825,
+              -6.562223039924847
+            ],
+            [
+              107.45007652115359,
+              -6.562230803816821
+            ],
+            [
+              107.45008194879664,
+              -6.562238074201098
+            ],
+            [
+              107.4500880676262,
+              -6.562244781059883
+            ],
+            [
+              107.45009481871462,
+              -6.562250859802433
+            ],
+            [
+              107.45010213704523,
+              -6.562256251887112
+            ],
+            [
+              107.45010995213848,
+              -6.562260905385172
+            ],
+            [
+              107.45011818873073,
+              -6.5622647754808625
+            ],
+            [
+              107.45012676749904,
+              -6.56226782490303
+            ],
+            [
+              107.45013560582521,
+              -6.562270024284051
+            ],
+            [
+              107.45014461859121,
+              -6.562271352442678
+            ],
+            [
+              107.45015371899918,
+              -6.56227179658801
+            ],
+            [
+              107.45016281940713,
+              -6.562271352442678
+            ],
+            [
+              107.45017183217314,
+              -6.562270024284051
+            ],
+            [
+              107.4501806704993,
+              -6.56226782490303
+            ],
+            [
+              107.45018924926762,
+              -6.5622647754808625
+            ],
+            [
+              107.45019748585987,
+              -6.562260905385172
+            ],
+            [
+              107.4502053009531,
+              -6.562256251887112
+            ],
+            [
+              107.45021261928372,
+              -6.562250859802433
+            ],
+            [
+              107.45021937037215,
+              -6.562244781059883
+            ],
+            [
+              107.4502254892017,
+              -6.562238074201098
+            ],
+            [
+              107.45023091684476,
+              -6.562230803816821
+            ],
+            [
+              107.45023560103009,
+              -6.562223039924847
+            ],
+            [
+              107.45023949664655,
+              -6.562214857295723
+            ],
+            [
+              107.45024256617715,
+              -6.562206334732658
+            ],
+            [
+              107.45024478006076,
+              -6.56219755431261
+            ],
+            [
+              107.45024611697644,
+              -6.562188600595835
+            ],
+            [
+              107.45024656404905,
+              -6.562179559811526
+            ],
+            [
+              107.45024611697308,
+              -6.562170519027381
+            ],
+            [
+              107.45024478005416,
+              -6.562161565311091
+            ],
+            [
+              107.4502425661676,
+              -6.562152784891832
+            ],
+            [
+              107.45023949663437,
+              -6.562144262329829
+            ],
+            [
+              107.4502356010158,
+              -6.562136079701999
+            ],
+            [
+              107.45023091682884,
+              -6.562128315811503
+            ],
+            [
+              107.45022548918485,
+              -6.562121045428827
+            ],
+            [
+              107.45021937035494,
+              -6.562114338571709
+            ],
+            [
+              107.45021261926686,
+              -6.562108259830825
+            ],
+            [
+              107.45020530093723,
+              -6.562102867747748
+            ],
+            [
+              107.45019748584558,
+              -6.562098214251165
+            ],
+            [
+              107.45018924925544,
+              -6.562094344156769
+            ],
+            [
+              107.45018067048974,
+              -6.562091294735665
+            ],
+            [
+              107.45017183216656,
+              -6.562089095355431
+            ],
+            [
+              107.45016281940379,
+              -6.56208776719729
+            ],
+            [
+              107.45015371899918,
+              -6.562087323052123
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44958327699709,
+          -6.558559579331046
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44461317298322,
+          -6.560419760590236
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44420813311353,
+          -6.5592125962097185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44576201334115,
+          -6.558663884161874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44741899462508,
+          -6.5605807156193805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44546743889066,
+          -6.5610928449137305
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44518022880118,
+          -6.560858728730423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44931899983044,
+          -6.560602664028764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44868566476134,
+          -6.560310018494491
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44763992546348,
+          -6.561824457277353
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44698449731123,
+          -6.5616049736806445
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "purwakarta tengah"
+      },
+      "geometry": {
+        "coordinates": [
+          107.44624806118401,
+          -6.561297696483848
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
